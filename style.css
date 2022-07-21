@@ -1,0 +1,34 @@
+body {
+    background-color: palegoldenrod;
+}
+
+#score {
+    font-size: 30px;
+    float: left;
+    margin-left: 150px;
+}
+
+#timer {
+    font-size: 30px;
+    float: right;
+    margin-right: 150px;
+}
+
+#sketch_to_draw {
+    font-size: 30px;
+    color: rgb(255, 66, 66);
+}
+
+#sketch {
+    font-size: 30px;
+}
+
+#confidence {
+    font-size: 30px;
+}
+
+canvas {
+    border-radius: 3px;
+    border-color: black;
+    border-style: solid;
+}
